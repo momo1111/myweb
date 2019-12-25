@@ -21,6 +21,11 @@
   			<div class="point point4"></div>
   		</li>
   	</ul>
+  	<footer class="footer">
+  		<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=19041418">
+  			京ICP备19041418号
+  		</a>
+  	</footer>
   </div>
 </template>
 <script>
@@ -151,5 +156,20 @@ export default {
 	.nav li .point4{
 		background:url('../assets/image/text4.png');
 		background-size:cover;
+	}
+	.footer{
+		text-align:center;
+		color:#fff;
+		width:100%;
+		position:absolute;
+		bottom:0;
+		height:45px;
+	    line-height:45px;
+		background:#2c2f39;
+	}
+	.footer a{
+		color:#fff;
+		text-decoration: none;
+		font-size:12px;
 	}
 </style>
