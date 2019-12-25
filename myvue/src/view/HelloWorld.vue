@@ -22,7 +22,7 @@
   		</li>
   	</ul>
   	<footer class="footer">
-  		<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=19041418">
+  		<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=19041418" target="_blank">
   			京ICP备19041418号
   		</a>
   	</footer>
